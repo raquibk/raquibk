@@ -2,7 +2,7 @@
 
 Welcome to my profile! I am a student at The University of Alberta, a coder :computer:, avid reader :open_book:, and science lover :earth_americas:. 
 
-## Contact Info
+## Contact Info :phone:
 
 Computers, History, Geography, Physics, Art, or even the weather - I am fascinated with everything, and I absolutely love learning! I am available to talk about everything under the sun. 
 
@@ -17,7 +17,19 @@ Computers, History, Geography, Physics, Art, or even the weather - I am fascinat
   
 </p>
 
-## About me
+## Tools and Technologies :wrench: 
+
+<p align="center">
+      <img align="center" src="https://img.shields.io/badge/OS-Windows-informational?logo=Microsoft&labelColor=0A0E28&color=4e67eb&logoColor=ffffff">
+      <img align="center" src="https://img.shields.io/badge/OS-Linux-informational?logo=Linux&labelColor=0A0E28&color=4e67eb&logoColor=ffffff">
+      <img align="center" src="https://img.shields.io/badge/Editor-VSCode-informational?logo=visual-studio-code&labelColor=46474a&color=0078d7&logoColor=0078d7">      
+</p>
+<p align="center">
+      <img align="center" src="https://img.shields.io/badge/Code-Python-informational?logo=python&labelColor=1a1a1a&color=306998&logoColor=306998">
+      <img align="center" src="https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&labelColor=1a1a1a&color=306998&logoColor=306998">
+      <img align="center" src="https://img.shields.io/badge/Code-HTML-informational?logo=html5&labelColor=1a1a1a&color=306998&logoColor=306998">
+      <img align="center" src="https://img.shields.io/badge/Code-MATLAB-informational?logo=mathworks&labelColor=1a1a1a&color=306998&logoColor=306998">
+</p>
 <!--
 **raquibk/raquibk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
