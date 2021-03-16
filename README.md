@@ -35,5 +35,4 @@ Computers, History, Geography, Physics, Art, or even the weather - I am fascinat
     <img align="center" src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&labelColor=171717&color=525252&logoColor=white">
 </p>
 
-## About Me
 
